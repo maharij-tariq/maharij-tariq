@@ -1,18 +1,68 @@
 # 🧑‍💻 Hi 👋, I'm Maharij Tariq
 
-**BSCS Student || Aspiring Full-Stack Web Developer || JavaScript || React.js || Node.js || Express.js || REST APIs**
+**BSCS Student | Aspiring Full-Stack Web Developer**
 
-📧 **Email me:** 👉 [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com) — For collaboration, projects, or professional opportunities.
+Building responsive, dynamic web applications with modern JavaScript technologies and progressing toward the **MERN Stack**.
 
-- 🚀 Proficient in **JavaScript, React.js, Node.js, Express.js, HTML5, CSS3,** and **Tailwind CSS**
+📧 **Email me:** 👉 [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com), open to collaboration, projects, and professional opportunities.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BSCS student focused on becoming a professional **Full-Stack Web Developer**
+- ⚙️ Building responsive, dynamic web applications with modern JavaScript technologies
+- 🚀 Creating **full-stack projects** to strengthen both my frontend and backend skills
+
+---
+
+## 🛠️ Technical Skills
+
+- 🚀 **Frontend:** JavaScript, React.js, HTML5, CSS3, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js
+- 🗄️ **Databases:** SQL/MySQL (familiar), MongoDB (learning)
+- 🔀 **Tools:** Git & GitHub for version control and collaboration
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔗 API Integration & Architecture
+
 - 🔗 Experienced in integrating **RESTful APIs** to connect frontend applications with backend services
-- 🔄 Understanding of **Full-Stack Development Architecture**, including frontend-to-backend communication, API integration, database operations, and response handling
-- ⚙️ Building responsive and dynamic web applications using modern JavaScript technologies
-- 🗄️ Familiar with **SQL/MySQL** and currently learning **MongoDB**
-- 🔀 Using **Git & GitHub** for version control and collaboration
-- 🚀 Building **full-stack projects** to strengthen my frontend and backend skills
-- 📚 Currently progressing toward the **MERN Stack**
-- 🎯 Goal: To grow as a **professional Full-Stack Web Developer** and contribute to real-world projects
+- 🔄 Strong understanding of **full-stack architecture**: frontend-to-backend communication, API integration, database operations, and response handling
+
+---
+
+## 📚 Currently Learning
+
+- 🍃 **MongoDB** and database integration
+- 📚 **MERN Stack** (MongoDB, Express.js, React.js, Node.js) through hands-on projects
+- 🗄️ Database management with **SQL** and **MongoDB**
+
+---
+
+## 🎯 Goal
+
+To grow as a professional **Full-Stack Web Developer** and contribute to real-world projects.
+
+---
+
+## 🤝 Let's Connect
+
+For collaboration, projects, or professional opportunities:
+
+📧 [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maharijtariq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maharijtariq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maharij-tariq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maharij.tariq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MaharijTariq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maharijtariq@gmail.com) 
 
