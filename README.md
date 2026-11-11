@@ -1,18 +1,18 @@
-## 👨‍💻 Hi 👋, I'm Maharij Tariq
+# 🧑‍💻 Hi 👋, I'm Maharij Tariq
 
 **BSCS Student || Aspiring Full-Stack Web Developer || JavaScript || React.js || Node.js || Express.js || REST APIs**
-**Email me:** 👉 ✉️ [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com)— For collaboration, projects, or professional opportunities.
-*🚀 Proficient in JavaScript, React.js, Node.js, Express.js, HTML5, CSS3, and Tailwind CSS.
-*🔗 Experienced in integrating RESTful APIs to connect frontend applications with backend services.
-*🔄 Understanding of Full-Stack Development Architecture, including frontend-to-backend communication, API integration, database operations, and response handling.
-*⚙️ Building responsive and dynamic web applications using modern JavaScript technologies.
-*🗄️ Learning database management and integration with MongoDB and SQL.
-* 🗄️ Familiar with **SQL/MySQL** and currently learning **MongoDB**
-* 🔀 Using **Git & GitHub** for version control and collaboration
-* 🚀 Building **full-stack projects** to strengthen my frontend and backend skills
-* 📚 Currently progressing toward the **MERN Stack**
-* 🎯 Goal: To grow as a **professional Full-Stack Web Developer** and contribute to real-world projects
 
+📧 **Email me:** 👉 [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com) — For collaboration, projects, or professional opportunities.
+
+- 🚀 Proficient in **JavaScript, React.js, Node.js, Express.js, HTML5, CSS3,** and **Tailwind CSS**
+- 🔗 Experienced in integrating **RESTful APIs** to connect frontend applications with backend services
+- 🔄 Understanding of **Full-Stack Development Architecture**, including frontend-to-backend communication, API integration, database operations, and response handling
+- ⚙️ Building responsive and dynamic web applications using modern JavaScript technologies
+- 🗄️ Familiar with **SQL/MySQL** and currently learning **MongoDB**
+- 🔀 Using **Git & GitHub** for version control and collaboration
+- 🚀 Building **full-stack projects** to strengthen my frontend and backend skills
+- 📚 Currently progressing toward the **MERN Stack**
+- 🎯 Goal: To grow as a **professional Full-Stack Web Developer** and contribute to real-world projects
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maharijtariq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maharijtariq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maharij-tariq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maharij.tariq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MaharijTariq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maharijtariq@gmail.com) 
 
