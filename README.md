@@ -1,12 +1,12 @@
 ## 👨‍💻 Hi 👋, I'm Maharij Tariq
 
 **BSCS Student || Aspiring Full-Stack Web Developer || JavaScript || React.js || Node.js || Express.js || REST APIs**
-
 **Email me:** 👉 ✉️ [maharijtariq@gmail.com](mailto:maharijtariq@gmail.com)— For collaboration, projects, or professional opportunities.
-
-* 💻 Skilled in **JavaScript, React.js, Node.js, Express.js, HTML, CSS, and Tailwind CSS**
-* 🔗 Working with **REST APIs** to connect frontend applications with backend services
-* 🔄 Understanding the REST API workflow: **React frontend → API request → Express.js backend → database → API response → frontend**
+*🚀 Proficient in JavaScript, React.js, Node.js, Express.js, HTML5, CSS3, and Tailwind CSS.
+*🔗 Experienced in integrating RESTful APIs to connect frontend applications with backend services.
+*🔄 Understanding of Full-Stack Development Architecture, including frontend-to-backend communication, API integration, database operations, and response handling.
+*⚙️ Building responsive and dynamic web applications using modern JavaScript technologies.
+*🗄️ Learning database management and integration with MongoDB and SQL.
 * 🗄️ Familiar with **SQL/MySQL** and currently learning **MongoDB**
 * 🔀 Using **Git & GitHub** for version control and collaboration
 * 🚀 Building **full-stack projects** to strengthen my frontend and backend skills
